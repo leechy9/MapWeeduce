@@ -1,5 +1,4 @@
 from mapweeduce import MapWeeduce
-from collections import defaultdict
 
 # Each line is considered a separate document.
 strings = [
